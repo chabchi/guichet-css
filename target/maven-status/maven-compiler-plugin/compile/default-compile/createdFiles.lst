@@ -1,0 +1,16 @@
+com\guichetcss\api\subscription\booking\subscription\booking\service\ConsumerService.class
+com\guichetcss\api\subscription\booking\subscription\booking\infra\GuichetInTheAction.class
+com\guichetcss\api\subscription\booking\subscription\booking\infra\GuichetRepositoryImpl.class
+com\guichetcss\api\subscription\booking\subscription\booking\api\GuichetContext.class
+com\guichetcss\api\subscription\booking\subscription\booking\infra\entities\TicketEntity.class
+com\guichetcss\api\subscription\booking\subscription\booking\domain\UpdateTicket.class
+com\guichetcss\api\subscription\booking\subscription\booking\infra\persistence\GuichetDao.class
+com\guichetcss\api\subscription\booking\ApiApplication.class
+com\guichetcss\api\subscription\booking\subscription\booking\domain\StadeStatus$StadeStatusBuilder.class
+com\guichetcss\api\subscription\booking\subscription\booking\port\GuichetApplication.class
+com\guichetcss\api\subscription\booking\subscription\booking\port\GuichetRepository.class
+com\guichetcss\api\subscription\booking\subscription\booking\domain\mapper\UpdateTicketMapper.class
+com\guichetcss\api\subscription\booking\subscription\booking\domain\PurchasedTicket.class
+com\guichetcss\api\subscription\booking\subscription\booking\domain\StadeStatus.class
+com\guichetcss\api\subscription\booking\subscription\booking\service\ProducerService.class
+com\guichetcss\api\subscription\booking\subscription\booking\domain\Ticket.class

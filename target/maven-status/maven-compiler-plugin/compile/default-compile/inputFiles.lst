@@ -1,0 +1,15 @@
+C:\Users\Chiheb CHABCHOUB\Documents\guichet-css\src\main\java\com\guichetcss\api\subscription\booking\subscription\booking\domain\StadeStatus.java
+C:\Users\Chiheb CHABCHOUB\Documents\guichet-css\src\main\java\com\guichetcss\api\subscription\booking\subscription\booking\infra\persistence\GuichetDao.java
+C:\Users\Chiheb CHABCHOUB\Documents\guichet-css\src\main\java\com\guichetcss\api\subscription\booking\subscription\booking\domain\PurchasedTicket.java
+C:\Users\Chiheb CHABCHOUB\Documents\guichet-css\src\main\java\com\guichetcss\api\subscription\booking\subscription\booking\domain\Ticket.java
+C:\Users\Chiheb CHABCHOUB\Documents\guichet-css\src\main\java\com\guichetcss\api\subscription\booking\subscription\booking\infra\entities\TicketEntity.java
+C:\Users\Chiheb CHABCHOUB\Documents\guichet-css\src\main\java\com\guichetcss\api\subscription\booking\ApiApplication.java
+C:\Users\Chiheb CHABCHOUB\Documents\guichet-css\src\main\java\com\guichetcss\api\subscription\booking\subscription\booking\port\GuichetApplication.java
+C:\Users\Chiheb CHABCHOUB\Documents\guichet-css\src\main\java\com\guichetcss\api\subscription\booking\subscription\booking\infra\GuichetRepositoryImpl.java
+C:\Users\Chiheb CHABCHOUB\Documents\guichet-css\src\main\java\com\guichetcss\api\subscription\booking\subscription\booking\api\GuichetContext.java
+C:\Users\Chiheb CHABCHOUB\Documents\guichet-css\src\main\java\com\guichetcss\api\subscription\booking\subscription\booking\service\ProducerService.java
+C:\Users\Chiheb CHABCHOUB\Documents\guichet-css\src\main\java\com\guichetcss\api\subscription\booking\subscription\booking\domain\mapper\UpdateTicketMapper.java
+C:\Users\Chiheb CHABCHOUB\Documents\guichet-css\src\main\java\com\guichetcss\api\subscription\booking\subscription\booking\service\ConsumerService.java
+C:\Users\Chiheb CHABCHOUB\Documents\guichet-css\src\main\java\com\guichetcss\api\subscription\booking\subscription\booking\port\GuichetRepository.java
+C:\Users\Chiheb CHABCHOUB\Documents\guichet-css\src\main\java\com\guichetcss\api\subscription\booking\subscription\booking\domain\UpdateTicket.java
+C:\Users\Chiheb CHABCHOUB\Documents\guichet-css\src\main\java\com\guichetcss\api\subscription\booking\subscription\booking\infra\GuichetInTheAction.java
