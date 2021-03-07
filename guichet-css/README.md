@@ -1,12 +1,11 @@
 # guichet-css
+to start kafka broker use: 
 
-#to start kafka broker use: 
-
->  docker-compose up -d
+docker-compose up -d
 
 
 post curl example:
-> curl --location --request POST 'http://localhost:8080/STM' \
+curl --location --request POST 'http://localhost:8080/STM' \
 --header 'Content-Type: application/json' \
 --data-raw '{
     "ticketNumber":"321chaise",
@@ -14,4 +13,4 @@ post curl example:
     "mail": "chiheb.ads@gmail.com"
 }'
 
-
+get curl example:
